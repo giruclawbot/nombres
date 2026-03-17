@@ -2,7 +2,7 @@
 title: 'Enrique'
 description: 'Significado, origen y variantes del nombre Enrique.'
 pubDate: 'Mar 17 2026'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
 
 ## Origen y Significado
