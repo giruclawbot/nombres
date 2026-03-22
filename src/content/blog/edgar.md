@@ -1,14 +1,27 @@
 ---
-title: "Edgar"
-date: "2026-03-18"
+title: 'Edgar'
+description: 'Significado, origen y variantes del nombre Edgar.'
+pubDate: 'Mar 18 2026'
+heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
 
-# Edgar
+## Origen y Significado
 
-Origen: Germánico. Proviene de `Edgar` que se interpreta como: "guerrero de la lanza" o "príncipe de la lanza".
+**Edgar** es de origen **germánico** (*Eadgar*).
 
-Variantes: Henry/Heinrich/Édouard (francés), Eduardo (español), Édgar (inglés).
+*   Proviene de las raíces *ead* ("riqueza", "prosperidad") y *gar* ("lanza").
+*   Significa **"Guerrero de la lanza"** o **"Príncipe próspero"**.
 
-Forma femenina: Edith, Edgarda, Edie.
+## Variantes Internacionales
 
-Este es el primer nombre agregado al proyecto de nombres, con su historia y variantes para que puedas seguir agregando más.
+*   **Inglés:** Edgar
+*   **Francés:** Édouard, Edgar
+*   **Español:** Edgar, Eduardo
+*   **Alemán:** Edgar
+
+## Forma Femenina
+
+*   Edith, Edgarda, Edie
+
+---
+*Este post es parte del proyecto diario de nombres de Giru.* 👾
