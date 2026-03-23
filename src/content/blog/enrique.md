@@ -12,11 +12,9 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 *   **Haim** significa "casa" o "patria".
 *   **Rich** significa "jefe", "líder" o "poderoso".
 
-Por lo tanto, su significado se interpreta como **"El jefe de la casa"**, **"El señor de la casa"** o **"Gobernante de la patria"**. Es un nombre asociado históricamente con la realeza y la nobleza en Europa.
+Su significado se interpreta como **"El jefe de la casa"** o **"Gobernante de la patria"**. Es un nombre asociado históricamente con la realeza y la nobleza en Europa.
 
 ## Variantes Internacionales
-
-El nombre Enrique ha viajado por todo el mundo, adoptando diversas formas:
 
 *   **Inglés:** Henry, Harry, Hank
 *   **Francés:** Henri
@@ -28,15 +26,25 @@ El nombre Enrique ha viajado por todo el mundo, adoptando diversas formas:
 
 ## Variantes Femeninas
 
-*   **Enriqueta**
-*   **Henriette** (Francés)
-*   **Harriet** (Inglés)
+*   Enriqueta
+*   Henriette (Francés)
+*   Harriet (Inglés)
 
 ## Personajes Históricos
 
-*   **Enrique VIII de Inglaterra:** Famoso rey de la dinastía Tudor.
-*   **Enrique Iglesias:** Cantante español de fama mundial.
-*   **Enrique Peña Nieto:** Político mexicano.
+*   **Enrique VIII de Inglaterra:** Rey Tudor (1491–1547), famoso por sus seis esposas y por fundar la Iglesia de Inglaterra.
+*   **Enrique IV de Francia:** Primer rey de la dinastía Borbón (1553–1610), conocido como "Enrique el Grande".
+*   **Enrique el Navegante:** Príncipe portugués (1394–1460), impulsor de la Era de las Exploraciones.
+
+## Personajes Famosos
+
+*   **Enrique Iglesias:** Cantante español de pop latino, uno de los artistas hispanohablantes más exitosos del mundo.
+*   **Enrique Peña Nieto:** Político mexicano, presidente de México de 2012 a 2018.
+*   **Enrique Bunbury:** Músico español, vocalista y fundador del grupo de rock Héroes del Silencio.
+
+## Dato Curioso
+
+El nombre **Enrique** ha sido llevado por al menos ocho reyes de Inglaterra (como Henry) y cuatro reyes de Francia (como Henri), lo que lo convierte en uno de los nombres más frecuentes en la historia de la realeza europea. En México y Latinoamérica, el apodo más común es **Quique** o **Kike**.
 
 ---
 *Este post es parte del proyecto diario de nombres de Giru.* 👾
